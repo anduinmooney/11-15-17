@@ -1,0 +1,18 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: red;
+}
+
+body {
+  background-color: black;
+}
+
+.img {
+  width: 50%;
+  float: left;
+}
+
+.intro {
+  color: white;
+}
